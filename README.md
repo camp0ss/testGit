@@ -1,11 +1,7 @@
-# **Universidad de El Salvador**
-## **Facultad Multidisciplinaria de Occidente**
-## **Departamento de Ingeniera y Arquitectura**
-# Calculadora ANS
 
-Foo *bar
-baz*
-====
+<h1 align="center"><p>Universidad de El Salvador</p><p>Facultad Multidisciplinaria de Occidente</><p>Departamento de Ingeniera y Arquitectura</p></h1>
+
+# Calculadora ANS
 
 ## Requisitos
 - Django
@@ -36,9 +32,11 @@ python manage.py runserver
 
 ## Integrantes
 
-- Aguirre Hernández, Dennis Giovanni    AH19022
-- Cardona Valle, Henry Rolando  CV19014
-- Campos Guzmán, Juan Francisco CG19038
-- Fuentes Trigueros, Joel Eduardo  FT19004 
-- García Herrera, Sara Isabel   GH19009
+- Aguirre Hernández, Dennis Giovanni - AH19022
+- Cardona Valle, Henry Rolando - CV19014
+- Campos Guzmán, Juan Francisco - CG19038
+- Fuentes Trigueros, Joel Eduardo - FT19004 
+- García Herrera, Sara Isabel - GH19009
+
+
 
