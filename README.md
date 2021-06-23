@@ -1,6 +1,6 @@
 # **Universidad de El Salvador**
-**Facultad Multidisciplinaria de Occidente **
-**Departamento de Ingeniera y Arquitectura**
+## **Facultad Multidisciplinaria de Occidente**
+## **Departamento de Ingeniera y Arquitectura**
 # Calculadora ANS
 
 ## Requisitos
